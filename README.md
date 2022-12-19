@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KostiaKryvoroH from UA
 - 👀 I’m interested in commercial projects on React Framework
 - 🌱 I’m currently learning MERN stack technology and advanced CSS
-- 💞️ I’m looking to collaborate on web-syudios and startUPs like a React developer
+- 💞️ I’m looking to collaborate on web-studios and startUPs like a React developer
 - 📫 How to reach me: https://www.linkedin.com/in/kostiantin-kryvoroh-613230259/
 
 <!---
